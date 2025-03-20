@@ -4,6 +4,9 @@ Project Overview
 
 Farm2Bag is an e-commerce platform designed to connect farmers directly with consumers. This platform allows users to browse farm products, add them to their cart, place orders, and manage their profiles. The system is developed using HTML, CSS, JavaScript, PHP, and MySQL, providing a seamless and interactive experience for users.
 
+# Live Demo
+https://dineshkumar245.github.io/Farm2Bag/
+
 # Features
 
 # a)User Authentication
