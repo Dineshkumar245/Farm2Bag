@@ -1,0 +1,17 @@
+Array
+(
+    [name] => dinesh
+    [email] => d@gmail.com
+    [cart] => Array
+        (
+            [0] => Array
+                (
+                    [name] => Charcoal Soap
+                    [price] => 40
+                    [quantity] => 1
+                    [totalPrice] => 40
+                )
+
+        )
+
+)
