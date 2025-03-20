@@ -49,9 +49,15 @@ Farm2Bag is an e-commerce platform designed to connect farmers directly with con
 #
 # How the System Works
 1.User Visits Website → Opens index.html
+
 2.User Registration & Login → register.php & login.php
+
 3.Product Listing → product.html
+
 4.Adding to Cart & Checkout → cart.html, save_order.php
+
 5.Profile Management → profile.php
+
 6.Database Management → farm2bag.sql
+
 7.Admin Panel (Future Enhancement)
