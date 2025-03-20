@@ -8,11 +8,11 @@ Farm2Bag is an e-commerce platform designed to connect farmers directly with con
 
 1. User Authentication
 
-Users can register, log in, and log out securely.
+    Users can register, log in, and log out securely.
 
-Passwords are stored securely in the database.
+    Passwords are stored securely in the database.
 
-User authentication ensures that only registered users can place orders.
+    User authentication ensures that only registered users can place orders.
 
 2. Product Listing
 
