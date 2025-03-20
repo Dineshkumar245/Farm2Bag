@@ -6,7 +6,7 @@ Farm2Bag is an e-commerce platform designed to connect farmers directly with con
 
 # Features
 
-1. User Authentication
+# 1. User Authentication
 
     Users can register, log in, and log out securely.
 
@@ -14,7 +14,7 @@ Farm2Bag is an e-commerce platform designed to connect farmers directly with con
 
     User authentication ensures that only registered users can place orders.
 
-2. Product Listing
+# 2. Product Listing
 
     Displays available farm products with images, descriptions, and prices.
 
